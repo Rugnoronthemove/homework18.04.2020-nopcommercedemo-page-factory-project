@@ -1,0 +1,16 @@
+2020-04-19 23:04:464 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-19 23:04:642 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (6b2a78bbc4cd7f88d745d118ba7a7912)] -> css selector: a.ico-login]
+2020-04-19 23:04:184 INFO  LoginPage :31 -  Enter email: xyz13@gmail.com to email filed [[ChromeDriver: chrome on WINDOWS (6b2a78bbc4cd7f88d745d118ba7a7912)] -> css selector: input#Email]
+2020-04-19 23:04:408 INFO  LoginPage :38 -  Enter password: abc123 to password field [[ChromeDriver: chrome on WINDOWS (6b2a78bbc4cd7f88d745d118ba7a7912)] -> css selector: input#Password]
+2020-04-19 23:04:451 INFO  LoginPage :46 -  Click on Login button: Proxy element for: DefaultElementLocator 'By.xpath: //input[@class='button-1 login-button']'
+2020-04-19 23:04:535 INFO  AccountPage :20 - Verify My account text: My account displayed on the Account Page [[ChromeDriver: chrome on WINDOWS (6b2a78bbc4cd7f88d745d118ba7a7912)] -> css selector: a.ico-account]
+2020-04-19 23:04:601 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-19 23:04:785 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (928141ccb2e7d8d075122f605022cf8b)] -> css selector: a.ico-login]
+2020-04-19 23:04:113 INFO  LoginPage :31 -  Enter email: abc@gmail.com to email filed [[ChromeDriver: chrome on WINDOWS (928141ccb2e7d8d075122f605022cf8b)] -> css selector: input#Email]
+2020-04-19 23:04:345 INFO  LoginPage :38 -  Enter password: abc123 to password field [[ChromeDriver: chrome on WINDOWS (928141ccb2e7d8d075122f605022cf8b)] -> css selector: input#Password]
+2020-04-19 23:04:726 INFO  LoginPage :46 -  Click on Login button: [[ChromeDriver: chrome on WINDOWS (928141ccb2e7d8d075122f605022cf8b)] -> xpath: //input[@class='button-1 login-button']]
+2020-04-19 23:04:111 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-19 23:04:668 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (5797d32701bc987231fe325500f91f00)] -> css selector: a.ico-login]
+2020-04-19 23:04:740 INFO  LoginPage :52 -  Verify Welcome Text: Welcome, Please Sign In! displayed on Login page [[ChromeDriver: chrome on WINDOWS (5797d32701bc987231fe325500f91f00)] -> xpath: //div[@class='page-title']//h1]
+2020-04-19 23:04:922 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-19 23:04:292 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (467e6f02d29e0cd6518dee784589a033)] -> xpath: //a[@class='ico-register']]

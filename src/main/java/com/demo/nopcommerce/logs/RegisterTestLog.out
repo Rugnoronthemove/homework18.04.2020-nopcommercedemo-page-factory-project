@@ -1,0 +1,92 @@
+2020-04-20 00:04:92 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:830 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (22c6591195624e23a12cae5964e7313d)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:21 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:457 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (576c9dab06c952c9dcb3352d59669440)] -> css selector: a.ico-login]
+2020-04-20 00:04:469 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:977 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:397 INFO  RegisterPage :65 -  Select Gender Male [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //input[@id='gender-male']]
+2020-04-20 00:04:712 INFO  RegisterPage :79 -  Send text: Prime to First Name field [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //input[@id='FirstName']]
+2020-04-20 00:04:951 INFO  RegisterPage :86 -  Send text: Testing to Last Name field [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //input[@id='LastName']]
+2020-04-20 00:04:257 INFO  RegisterPage :93 -  Select date of DOB from the drop down menu: [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //select[@name='DateOfBirthDay']]
+2020-04-20 00:04:496 INFO  RegisterPage :100 -  Select month of DOB from the drop down menu:[[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //select[@name='DateOfBirthMonth']]
+2020-04-20 00:04:756 INFO  RegisterPage :107 -  Select year of DOB from drop down menu:[[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //select[@name='DateOfBirthYear']]
+2020-04-20 00:04:67 INFO  RegisterPage :114 -  Send text: xyzdL@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //input[@id='Email']]
+2020-04-20 00:04:314 INFO  RegisterPage :121 -  Send text: Square1 to company name field [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //input[@id='Company']]
+2020-04-20 00:04:435 INFO  RegisterPage :128 -  Check if newsletter checkbox ticked [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> css selector: input#Newsletter]
+2020-04-20 00:04:681 INFO  RegisterPage :135 -  Send text: abc123 to password field [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //input[@id='Password']]
+2020-04-20 00:04:899 INFO  RegisterPage :142 -  Send text: abc123 to confirm password field [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //input[@id='ConfirmPassword']]
+2020-04-20 00:04:381 INFO  RegisterPage :149 -  Click on Register button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-04-20 00:04:464 INFO  RegistrationCompletePage :20 -  Verify text: Your registration completed on registration completion [[ChromeDriver: chrome on WINDOWS (8e9f6c3f661a86acf745ea0b17cee0c6)] -> xpath: //div[@class='master-wrapper-content']//div[text()='Your registration completed']]
+2020-04-20 00:04:736 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:269 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (0064dc899de1ac6dfa08be7cdd5e2737)] -> css selector: a.ico-login]
+2020-04-20 00:04:345 INFO  LoginPage :52 -  Verify Welcome Text: Welcome, Please Sign In! displayed on Login page [[ChromeDriver: chrome on WINDOWS (0064dc899de1ac6dfa08be7cdd5e2737)] -> xpath: //div[@class='page-title']//h1]
+2020-04-20 00:04:265 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:697 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (3a56885f67a8d51d38324cb697220ecb)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:08 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:874 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (ca4f92731cc1b2ef0b3f34a331e5f4b1)] -> css selector: a.ico-login]
+2020-04-20 00:04:396 INFO  LoginPage :31 -  Enter email: xyz13@gmail.com to email filed [[ChromeDriver: chrome on WINDOWS (ca4f92731cc1b2ef0b3f34a331e5f4b1)] -> css selector: input#Email]
+2020-04-20 00:04:572 INFO  LoginPage :38 -  Enter password: abc123 to password field [[ChromeDriver: chrome on WINDOWS (ca4f92731cc1b2ef0b3f34a331e5f4b1)] -> css selector: input#Password]
+2020-04-20 00:04:341 INFO  LoginPage :46 -  Click on Login button: [[ChromeDriver: chrome on WINDOWS (ca4f92731cc1b2ef0b3f34a331e5f4b1)] -> xpath: //input[@class='button-1 login-button']]
+2020-04-20 00:04:536 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:352 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (3186d94267591803b0ae30f646de7e07)] -> css selector: a.ico-login]
+2020-04-20 00:04:578 INFO  LoginPage :31 -  Enter email: abc@gmail.com to email filed [[ChromeDriver: chrome on WINDOWS (3186d94267591803b0ae30f646de7e07)] -> css selector: input#Email]
+2020-04-20 00:04:845 INFO  LoginPage :38 -  Enter password: abc123 to password field [[ChromeDriver: chrome on WINDOWS (3186d94267591803b0ae30f646de7e07)] -> css selector: input#Password]
+2020-04-20 00:04:81 INFO  LoginPage :46 -  Click on Login button: [[ChromeDriver: chrome on WINDOWS (3186d94267591803b0ae30f646de7e07)] -> xpath: //input[@class='button-1 login-button']]
+2020-04-20 00:04:278 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:706 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (dcbcae15ba26948a2ab7f9aa99e9d524)] -> css selector: a.ico-login]
+2020-04-20 00:04:793 INFO  LoginPage :52 -  Verify Welcome Text: Welcome, Please Sign In! displayed on Login page [[ChromeDriver: chrome on WINDOWS (dcbcae15ba26948a2ab7f9aa99e9d524)] -> xpath: //div[@class='page-title']//h1]
+2020-04-20 00:04:449 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:584 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (0673cd65d402196b43a708de8f664e68)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:670 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:179 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:255 INFO  RegisterPage :65 -  Select Gender Male [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //input[@id='gender-male']]
+2020-04-20 00:04:500 INFO  RegisterPage :79 -  Send text: Prime to First Name field [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //input[@id='FirstName']]
+2020-04-20 00:04:723 INFO  RegisterPage :86 -  Send text: Testing to Last Name field [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //input[@id='LastName']]
+2020-04-20 00:04:67 INFO  RegisterPage :93 -  Select date of DOB from the drop down menu: [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //select[@name='DateOfBirthDay']]
+2020-04-20 00:04:297 INFO  RegisterPage :100 -  Select month of DOB from the drop down menu:[[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //select[@name='DateOfBirthMonth']]
+2020-04-20 00:04:519 INFO  RegisterPage :107 -  Select year of DOB from drop down menu:[[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //select[@name='DateOfBirthYear']]
+2020-04-20 00:04:833 INFO  RegisterPage :114 -  Send text: xyzd8@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //input[@id='Email']]
+2020-04-20 00:04:57 INFO  RegisterPage :121 -  Send text: Square1 to company name field [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //input[@id='Company']]
+2020-04-20 00:04:166 INFO  RegisterPage :128 -  Check if newsletter checkbox ticked [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> css selector: input#Newsletter]
+2020-04-20 00:04:395 INFO  RegisterPage :135 -  Send text: abc123 to password field [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //input[@id='Password']]
+2020-04-20 00:04:592 INFO  RegisterPage :142 -  Send text: abc123 to confirm password field [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //input[@id='ConfirmPassword']]
+2020-04-20 00:04:88 INFO  RegisterPage :149 -  Click on Register button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-04-20 00:04:160 INFO  RegistrationCompletePage :20 -  Verify text: Your registration completed on registration completion [[ChromeDriver: chrome on WINDOWS (036f724a70e83715616da96ecdc5cb3e)] -> xpath: //div[@class='master-wrapper-content']//div[text()='Your registration completed']]
+2020-04-20 00:04:34 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:514 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (92a7863cfe122b092f9221b6e4cc8586)] -> css selector: a.ico-login]
+2020-04-20 00:04:427 INFO  LoginPage :31 -  Enter email: xyz13@gmail.com to email filed [[ChromeDriver: chrome on WINDOWS (92a7863cfe122b092f9221b6e4cc8586)] -> css selector: input#Email]
+2020-04-20 00:04:624 INFO  LoginPage :38 -  Enter password: abc123 to password field [[ChromeDriver: chrome on WINDOWS (92a7863cfe122b092f9221b6e4cc8586)] -> css selector: input#Password]
+2020-04-20 00:04:21 INFO  LoginPage :46 -  Click on Login button: Proxy element for: DefaultElementLocator 'By.xpath: //input[@class='button-1 login-button']'
+2020-04-20 00:04:90 INFO  AccountPage :20 - Verify My account text: My account displayed on the Account Page [[ChromeDriver: chrome on WINDOWS (92a7863cfe122b092f9221b6e4cc8586)] -> css selector: a.ico-account]
+2020-04-20 00:04:88 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:755 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (3e2ce80f1dcf93576be67df8ca1a25ce)] -> css selector: a.ico-login]
+2020-04-20 00:04:994 INFO  LoginPage :31 -  Enter email: abc@gmail.com to email filed [[ChromeDriver: chrome on WINDOWS (3e2ce80f1dcf93576be67df8ca1a25ce)] -> css selector: input#Email]
+2020-04-20 00:04:207 INFO  LoginPage :38 -  Enter password: abc123 to password field [[ChromeDriver: chrome on WINDOWS (3e2ce80f1dcf93576be67df8ca1a25ce)] -> css selector: input#Password]
+2020-04-20 00:04:753 INFO  LoginPage :46 -  Click on Login button: [[ChromeDriver: chrome on WINDOWS (3e2ce80f1dcf93576be67df8ca1a25ce)] -> xpath: //input[@class='button-1 login-button']]
+2020-04-20 00:04:125 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:638 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (8df04aa11d7cddea957c4f9913f2d1ae)] -> css selector: a.ico-login]
+2020-04-20 00:04:709 INFO  LoginPage :52 -  Verify Welcome Text: Welcome, Please Sign In! displayed on Login page [[ChromeDriver: chrome on WINDOWS (8df04aa11d7cddea957c4f9913f2d1ae)] -> xpath: //div[@class='page-title']//h1]
+2020-04-20 00:04:329 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:543 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (146d87f99e22655ddfa787c6ba61927d)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:271 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:393 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (f97a80c7c7dacb217fdb8b2d0e207edf)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:296 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:650 INFO  HomePage :23 - Clicking on login link: [[ChromeDriver: chrome on WINDOWS (724f5fb2795ee26854755e1c2c64f5c1)] -> css selector: a.ico-login]
+2020-04-20 00:04:515 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 00:04:435 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //a[@class='ico-register']]
+2020-04-20 00:04:634 INFO  RegisterPage :65 -  Select Gender Male [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //input[@id='gender-male']]
+2020-04-20 00:04:876 INFO  RegisterPage :79 -  Send text: Prime to First Name field [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //input[@id='FirstName']]
+2020-04-20 00:04:97 INFO  RegisterPage :86 -  Send text: Testing to Last Name field [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //input[@id='LastName']]
+2020-04-20 00:04:424 INFO  RegisterPage :93 -  Select date of DOB from the drop down menu: [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //select[@name='DateOfBirthDay']]
+2020-04-20 00:04:641 INFO  RegisterPage :100 -  Select month of DOB from the drop down menu:[[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //select[@name='DateOfBirthMonth']]
+2020-04-20 00:04:863 INFO  RegisterPage :107 -  Select year of DOB from drop down menu:[[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //select[@name='DateOfBirthYear']]
+2020-04-20 00:04:165 INFO  RegisterPage :114 -  Send text: xyznV@gmail.com to email field [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //input[@id='Email']]
+2020-04-20 00:04:388 INFO  RegisterPage :121 -  Send text: Square1 to company name field [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //input[@id='Company']]
+2020-04-20 00:04:499 INFO  RegisterPage :128 -  Check if newsletter checkbox ticked [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> css selector: input#Newsletter]
+2020-04-20 00:04:729 INFO  RegisterPage :135 -  Send text: abc123 to password field [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //input[@id='Password']]
+2020-04-20 00:04:920 INFO  RegisterPage :142 -  Send text: abc123 to confirm password field [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //input[@id='ConfirmPassword']]
+2020-04-20 00:04:559 INFO  RegisterPage :149 -  Click on Register button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='register-button']'
+2020-04-20 00:04:622 INFO  RegistrationCompletePage :20 -  Verify text: Your registration completed on registration completion [[ChromeDriver: chrome on WINDOWS (e60c2feef959032848a4627064b27cbb)] -> xpath: //div[@class='master-wrapper-content']//div[text()='Your registration completed']]
+2020-04-20 15:04:986 INFO  BrowserSelector :22 - Chrome browser selected
+2020-04-20 15:04:493 INFO  HomePage :29 - Clicking on register link: [[ChromeDriver: chrome on WINDOWS (ac6a514a8feec2252e4b9eb5c270fb1e)] -> xpath: //a[@class='ico-register']]
+2020-04-20 15:04:48 INFO  BrowserSelector :22 - Chrome browser selected
